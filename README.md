@@ -1,3 +1,5 @@
-![Source Code Analysis Demo]
+# Source Code Analysis Demo
 
-(/download.png)
+<p align="center">
+  <img src="https://github.com/Vijay-konakeri/Source_Code_Analysis_OpenAI/blob/main/download.png" alt="Source Code Analysis" width="600">
+</p>
